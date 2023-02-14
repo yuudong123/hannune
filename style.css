@@ -34,7 +34,6 @@ h3 {
   position: fixed;
   left: 76%;
   top: 180px;
-  text-align: center;
   width: 154px;
   background-color: rgb(81, 191, 255);
 }
@@ -89,7 +88,7 @@ mark.current {
     top: 75px;
   }
   .search-box {
-    width: 40%;
+    width: 80%;
     margin-left: 5px;
     padding-left: 10px;
   }
